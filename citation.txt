@@ -1,0 +1,9 @@
+@article{REPO394,
+    author = "Li, Lingjie and Li, Yongfeng and Lin, Qiuzhen and Liu, Songbai and Zhou, Junwei and Ming, Zhong and Coello, Carlos A. Coello",
+    journal = "IEEE Transactions on Cybernetics",
+    number = "",
+    pages = "1-14",
+    title = "{Neural Net-Enhanced Competitive Swarm Optimizer for Large-Scale Multiobjective Optimization}",
+    volume = "",
+    year = "2023"
+}
